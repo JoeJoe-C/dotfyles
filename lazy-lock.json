@@ -1,0 +1,5 @@
+{
+  "Git Signs": { "branch": "main", "commit": "4e348641b8206c3b8d23080999e3ddbe4ca90efc" },
+  "NightFox Colourscheme": { "branch": "main", "commit": "a4eb88b2dad3fba5c2d87f82cd15dfb9de73913d" },
+  "lazy.nvim": { "branch": "main", "commit": "83493db50a434a4c5c648faf41e2ead80f96e478" }
+}
